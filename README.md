@@ -1,4 +1,6 @@
 # Adventure Game!
+视频学习地址：[OOP learning](https://www.bilibili.com/video/BV1qm4y1L7y1/?spm_id_from=333.337.search-card.all.click&vd_source=a8574cdad20c76898bbf31ecbbdc2516)
+
 我们将会实现一个基于文本的冒险游戏。你可以通过执行`adventure.py`来开始游戏。
 
 通过命令`Ctrl-C`或者`Ctrl-D`退出游戏。
